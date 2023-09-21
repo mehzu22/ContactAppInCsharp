@@ -1,0 +1,15 @@
+D:\DotNet\ContactAppInCsharp\bin\Debug\net6.0\ContactAppInCsharp.exe
+D:\DotNet\ContactAppInCsharp\bin\Debug\net6.0\ContactAppInCsharp.deps.json
+D:\DotNet\ContactAppInCsharp\bin\Debug\net6.0\ContactAppInCsharp.runtimeconfig.json
+D:\DotNet\ContactAppInCsharp\bin\Debug\net6.0\ContactAppInCsharp.dll
+D:\DotNet\ContactAppInCsharp\bin\Debug\net6.0\ContactAppInCsharp.pdb
+D:\DotNet\ContactAppInCsharp\obj\Debug\net6.0\ContactAppInCsharp.csproj.AssemblyReference.cache
+D:\DotNet\ContactAppInCsharp\obj\Debug\net6.0\ContactAppInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ContactAppInCsharp\obj\Debug\net6.0\ContactAppInCsharp.AssemblyInfoInputs.cache
+D:\DotNet\ContactAppInCsharp\obj\Debug\net6.0\ContactAppInCsharp.AssemblyInfo.cs
+D:\DotNet\ContactAppInCsharp\obj\Debug\net6.0\ContactAppInCsharp.csproj.CoreCompileInputs.cache
+D:\DotNet\ContactAppInCsharp\obj\Debug\net6.0\ContactAppInCsharp.dll
+D:\DotNet\ContactAppInCsharp\obj\Debug\net6.0\refint\ContactAppInCsharp.dll
+D:\DotNet\ContactAppInCsharp\obj\Debug\net6.0\ContactAppInCsharp.pdb
+D:\DotNet\ContactAppInCsharp\obj\Debug\net6.0\ContactAppInCsharp.genruntimeconfig.cache
+D:\DotNet\ContactAppInCsharp\obj\Debug\net6.0\ref\ContactAppInCsharp.dll
